@@ -14,7 +14,7 @@ def mul(n1, n2):
 def div(n1, n2):
     return n1 / n2
 
-def sqr():
+def sqr(n1):
     return n1 ** 2
 
 operations = {
