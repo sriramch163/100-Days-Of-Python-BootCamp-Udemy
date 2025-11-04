@@ -5,7 +5,7 @@ An interactive number guessing game where players try to guess a randomly genera
 
 ## Features
 - Random number generation (1-100)
-- Two difficulty levels (Easy/Hard)
+- Three difficulty levels (Easy/Medium/Hard)
 - Limited attempts system
 - Interactive feedback with emojis
 - Visual feedback for guesses (too high/low)
@@ -14,13 +14,14 @@ An interactive number guessing game where players try to guess a randomly genera
 
 ## How to Play
 1. Run the program
-2. Choose difficulty: 'easy' (10 attempts) or 'hard' (5 attempts)
+2. Choose difficulty: 'easy' (10 attempts) or 'medium' (7 attempts) or 'hard' (5 attempts)
 3. Guess numbers between 1-100
 4. Follow the hints (too high/too low)
 5. Win by guessing correctly before running out of attempts!
 
 ## Game Rules
 - **Easy Mode**: 10 attempts
+- **Medium Mode**: 7 attempts
 - **Hard Mode**: 5 attempts
 - Number range: 1-100
 - Get feedback after each guess
@@ -36,7 +37,7 @@ An interactive number guessing game where players try to guess a randomly genera
 - **Game state management**
 
 ## Key Programming Concepts
-- Global constants (`EASY_LEVEL_TURNS`, `HARD_LEVEL_TURNS`)
+- Global constants (`EASY_LEVEL_TURNS`, `MEDIUM_LEVEL_TURNS`, `HARD_LEVEL_TURNS`)
 - Function scope and variable accessibility
 - Return values for game flow control
 - Conditional logic for difficulty selection
