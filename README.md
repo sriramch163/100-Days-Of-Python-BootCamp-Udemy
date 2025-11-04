@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 11/100** ✅  
-**Completion Rate: 11%** 📈  
-**Last Updated: [3-11-2025]**
+**Current Progress: Day 12/100** ✅  
+**Completion Rate: 12%** 📈  
+**Last Updated: [04-11-2025]**
 
 ## 🎯 Challenge Overview
 
@@ -32,6 +32,7 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 | 9 | [Secret Auction] | Dictionaries, Nesting | ✅ |
 | 10 | [Calculator] | Functions with Outputs, Recursion | ✅ |
 | 11 | [Blackjack Game] | Functions with Returns, Game Logic | ✅ |
+| 12 | [Number Guessing Game] | Scope, Global Variables, Constants | ✅ |
 
 
 
@@ -150,4 +151,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [3-11-2025] | Day 11 of 100*
+*Last updated: [04-11-2025] | Day 12 of 100*
