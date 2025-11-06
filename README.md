@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 13/100** ✅  
-**Completion Rate: 13%** 📈  
-**Last Updated: [05-11-2025]**
+**Current Progress: Day 14/100** ✅  
+**Completion Rate: 14%** 📈  
+**Last Updated: [06-11-2025]**
 
 ## 🎯 Challenge Overview
 
@@ -34,6 +34,7 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 | 11 | [Blackjack Game] | Functions with Returns, Game Logic | ✅ |
 | 12 | [Number Guessing Game] | Scope, Global Variables, Constants | ✅ |
 | 13 | [Debugging] | Error Handling, Stack Traces, Testing | ✅ |
+| 14 | [Higher Lower Game] | Functions with Parameters, Data Manipulation | ✅ |
 
 
 
@@ -152,4 +153,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [05-11-2025] | Day 13 of 100*
+*Last updated: [06-11-2025] | Day 14 of 100*
