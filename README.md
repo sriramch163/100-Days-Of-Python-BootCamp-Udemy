@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 14/100** ✅  
-**Completion Rate: 14%** 📈  
-**Last Updated: [06-11-2025]**
+**Current Progress: Day 15/100** ✅  
+**Completion Rate: 15%** 📈  
+**Last Updated: [07-11-2025]**
 
 ## 🎯 Challenge Overview
 
@@ -41,7 +41,8 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 ### Intermediate Level (Days 15-31)
 | Day | Project | Concepts | Status |
 |-----|---------|----------|--------|
-| 15-31 | Coming Soon... | OOP, APIs, Web Scraping | 🔄 |
+| 15 | [Coffee Machine] | Local Development, Modular Programming | ✅ |
+| 16-31 | Coming Soon... | OOP, APIs, Web Scraping | 🔄 |
 
 ### Advanced Level (Days 32-58)
 | Day | Project | Concepts | Status |
@@ -153,4 +154,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [06-11-2025] | Day 14 of 100*
+*Last updated: [07-11-2025] | Day 15 of 100*
