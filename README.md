@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 17/100** ✅  
-**Completion Rate: 17%** 📈  
-**Last Updated: [09-11-2025]**
+**Current Progress: Day 18/100** ✅  
+**Completion Rate: 18%** 📈  
+**Last Updated: [10-11-2025]**
 
 ## 🎯 Challenge Overview
 
@@ -44,7 +44,8 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 | 15 | [Coffee Machine] | Local Development, Modular Programming | ✅ |
 | 16 | [Restaurant Management System] | Object-Oriented Programming, Classes | ✅ |
 | 17 | [Ultimate Quiz Challenge] | Advanced OOP, Random Selection, UI Design | ✅ |
-| 18-31 | Coming Soon... | Advanced OOP, APIs, Web Scraping | 🔄 |
+| 18 | [Hirst Spot Painting] | Turtle Graphics, Color Extraction, External Libraries | ✅ |
+| 19-31 | Coming Soon... | Advanced OOP, APIs, Web Scraping | 🔄 |
 
 ### Advanced Level (Days 32-58)
 | Day | Project | Concepts | Status |
@@ -156,4 +157,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [09-11-2025] | Day 17 of 100*
+*Last updated: [10-11-2025] | Day 18 of 100*
