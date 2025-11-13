@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 20/100** ✅  
-**Completion Rate: 20%** 📈  
-**Last Updated: [12-11-2025]**
+**Current Progress: Day 21/100** ✅  
+**Completion Rate: 21%** 📈  
+**Last Updated: [13-11-2025]**
 
 ## 🎯 Challenge Overview
 
@@ -47,7 +47,8 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 | 18 | [Hirst Spot Painting] | Turtle Graphics, Color Extraction, External Libraries | ✅ |
 | 19 | [Event Handling & Turtle Graphics] | Event Handling, User Input, Interactive Graphics | ✅ |
 | 20 | [Snake Game Part 1] | Class-based Programming, Game Development, Movement Mechanics | ✅ |
-| 21-31 | Coming Soon... | Advanced OOP, APIs, Web Scraping | 🔄 |
+| 21 | [Snake Game Part 2] | Inheritance, Food Generation, Collision Detection, Score System | ✅ |
+| 22-31 | Coming Soon... | Advanced OOP, APIs, Web Scraping | 🔄 |
 
 ### Advanced Level (Days 32-58)
 | Day | Project | Concepts | Status |
@@ -159,4 +160,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [12-11-2025] | Day 20 of 100*
+*Last updated: [13-11-2025] | Day 21 of 100*
