@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 23/100** ✅  
-**Completion Rate: 23%** 📈  
-**Last Updated: [15-11-2025]**
+**Current Progress: Day 24/100** ✅  
+**Completion Rate: 24%** 📈  
+**Last Updated: [17-11-2025]**
 
 ## 🎯 Challenge Overview
 
@@ -50,7 +50,8 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 | 21 | [Snake Game Part 2] | Inheritance, Food Generation, Collision Detection, Score System | ✅ |
 | 22 | [Pong Game] | Game Physics, Collision Detection, Event Systems, Sound Integration | ✅ |
 | 23 | [Crossroads Game Enhanced] | Multi-Object Management, Game State Systems, Multiplayer Design | ✅ |
-| 24-31 | Coming Soon... | Advanced OOP, APIs, Web Scraping | 🔄 |
+| 24 | [Notes Manager] | File I/O, Data Persistence, Modular Programming, CRUD Operations | ✅ |
+| 25-31 | Coming Soon... | Advanced OOP, APIs, Web Scraping | 🔄 |
 
 ### Advanced Level (Days 32-58)
 | Day | Project | Concepts | Status |
@@ -162,4 +163,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [15-11-2025] | Day 23 of 100*
+*Last updated: [17-11-2025] | Day 24 of 100*
