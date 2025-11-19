@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 25/100** ✅  
-**Completion Rate: 25%** 📈  
-**Last Updated: [18-11-2025]**
+**Current Progress: Day 26/100** ✅  
+**Completion Rate: 26%** 📈  
+**Last Updated: [19-11-2025]**
 
 ## 🎯 Challenge Overview
 
@@ -52,7 +52,8 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 | 23 | [Crossroads Game Enhanced] | Multi-Object Management, Game State Systems, Multiplayer Design | ✅ |
 | 24 | [Notes Manager] | File I/O, Data Persistence, Modular Programming, CRUD Operations | ✅ |
 | 25 | [U.S. States Game] | Pandas Library, Data Analysis, CSV Handling, Interactive GUI | ✅ |
-| 26-31 | Coming Soon... | Advanced OOP, APIs, Web Scraping | 🔄 |
+| 26 | [NATO Phonetic Alphabet] | List Comprehensions, Dictionary Comprehensions, Pandas, CSV Processing | ✅ |
+| 27-31 | Coming Soon... | Advanced OOP, APIs, Web Scraping | 🔄 |
 
 ### Advanced Level (Days 32-58)
 | Day | Project | Concepts | Status |
@@ -164,4 +165,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [18-11-2025] | Day 25 of 100*
+*Last updated: [19-11-2025] | Day 26 of 100*
