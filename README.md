@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 27/100** ✅  
-**Completion Rate: 27%** 📈  
-**Last Updated: [20-11-2025]**
+**Current Progress: Day 28/100** ✅  
+**Completion Rate: 28%** 📈  
+**Last Updated: [21-11-2025]**
 
 ## 🎯 Challenge Overview
 
@@ -54,7 +54,8 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 | 25 | [U.S. States Game] | Pandas Library, Data Analysis, CSV Handling, Interactive GUI | ✅ |
 | 26 | [NATO Phonetic Alphabet] | List Comprehensions, Dictionary Comprehensions, Pandas, CSV Processing | ✅ |
 | 27 | [Miles to Km Converter] | Tkinter GUI, Grid Layout, Event Handling, Desktop Applications | ✅ |
-| 28-31 | Coming Soon... | Advanced GUI, APIs, Web Scraping | 🔄 |
+| 28 | [Pomodoro Timer] | Tkinter GUI, Timer Mechanisms, Canvas Graphics, Audio Integration | ✅ |
+| 29-31 | Coming Soon... | Advanced GUI, APIs, Web Scraping | 🔄 |
 
 ### Advanced Level (Days 32-58)
 | Day | Project | Concepts | Status |
@@ -166,4 +167,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [20-11-2025] | Day 27 of 100*
+*Last updated: [21-11-2025] | Day 28 of 100*
