@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 30/100** ✅  
-**Completion Rate: 30%** 📈  
-**Last Updated: [24-11-2025]**
+**Current Progress: Day 31/100** ✅  
+**Completion Rate: 31%** 📈  
+**Last Updated: [25-11-2025]**
 
 ## 🎯 Challenge Overview
 
@@ -57,12 +57,12 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 | 28 | [Pomodoro Timer] | Tkinter GUI, Timer Mechanisms, Canvas Graphics, Audio Integration | ✅ |
 | 29 | [Password Manager] | Advanced Tkinter, File I/O, Data Validation, Security | ✅ |
 | 30 | [Exception Handling Projects] | JSON Handling, Exception Handling, Search Functionality, Error Management | ✅ |
-| 31 | Coming Soon... | Email Automation, SMTP, API Integration | 🔄 |
+| 31 | [Flash Card App (Flashy)] | Canvas Operations, Timer Functions, Data Persistence, Spaced Repetition | ✅ |
 
 ### Advanced Level (Days 32-58)
 | Day | Project | Concepts | Status |
 |-----|---------|----------|--------|
-| 32-58 | Coming Soon... | GUI, Automation, Data Science | 🔄 |
+| 32-58 | Coming Soon... | Email Automation, APIs, Web Scraping, Data Science | 🔄 |
 
 ### Professional Level (Days 59-81)
 | Day | Project | Concepts | Status |
@@ -169,4 +169,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [24-11-2025] | Day 30 of 100*
+*Last updated: [25-11-2025] | Day 31 of 100*
