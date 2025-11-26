@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 31/100** ✅  
-**Completion Rate: 31%** 📈  
-**Last Updated: [25-11-2025]**
+**Current Progress: Day 32/100** ✅  
+**Completion Rate: 32%** 📈  
+**Last Updated: [26-11-2025]**
 
 ## 🎯 Challenge Overview
 
@@ -62,7 +62,8 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 ### Advanced Level (Days 32-58)
 | Day | Project | Concepts | Status |
 |-----|---------|----------|--------|
-| 32-58 | Coming Soon... | Email Automation, APIs, Web Scraping, Data Science | 🔄 |
+| 32 | [Automated Birthday Wisher] | SMTP, Email Automation, DateTime, File Templates, CSV Processing | ✅ |
+| 33-58 | Coming Soon... | APIs, Web Scraping, Data Science, Advanced Automation | 🔄 |
 
 ### Professional Level (Days 59-81)
 | Day | Project | Concepts | Status |
@@ -169,4 +170,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [25-11-2025] | Day 31 of 100*
+*Last updated: [26-11-2025] | Day 32 of 100*
