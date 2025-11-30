@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 35/100** ✅  
-**Completion Rate: 35%** 📈  
-**Last Updated: [29-11-2025]**
+**Current Progress: Day 36/100** ✅  
+**Completion Rate: 36%** 📈  
+**Last Updated: [30-11-2025]**
 
 ## 🎯 Challenge Overview
 
@@ -66,7 +66,8 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 | 33 | [ISS Overhead Notifier] | API Integration, HTTP Requests, Real-time Monitoring, JSON Processing | ✅ |
 | 34 | [Ultimate Quiz Challenge] | Advanced OOP, GUI Design, Data Management, Interactive Applications | ✅ |
 | 35 | [Rain Alert SMS Notifier] | Weather APIs, SMS Integration, Twilio, Automated Notifications | ✅ |
-| 36-58 | Coming Soon... | Web Scraping, Data Science, Stock Trading, Advanced Automation | 🔄 |
+| 36 | [Stock News Alert System] | Stock APIs, Financial Data, Multi-API Integration, Trading Alerts | ✅ |
+| 37-58 | Coming Soon... | Web Scraping, Data Science, Advanced Trading, Automation | 🔄 |
 
 ### Professional Level (Days 59-81)
 | Day | Project | Concepts | Status |
@@ -173,4 +174,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [29-11-2025] | Day 35 of 100*
+*Last updated: [30-11-2025] | Day 36 of 100*
