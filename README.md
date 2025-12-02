@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 37/100** ✅  
-**Completion Rate: 37%** 📈  
-**Last Updated: [01-12-2025]**
+**Current Progress: Day 38/100** ✅  
+**Completion Rate: 38%** 📈  
+**Last Updated: [02-12-2025]**
 
 ## 🎯 Challenge Overview
 
@@ -68,7 +68,8 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 | 35 | [Rain Alert SMS Notifier] | Weather APIs, SMS Integration, Twilio, Automated Notifications | ✅ |
 | 36 | [Stock News Alert System] | Stock APIs, Financial Data, Multi-API Integration, Trading Alerts | ✅ |
 | 37 | [Habit Tracker with Pixela API] | RESTful APIs, CRUD Operations, Authentication, Data Visualization | ✅ |
-| 38-58 | Coming Soon... | Web Scraping, Data Science, Advanced APIs, Automation | 🔄 |
+| 38 | [Exercise Tracking with NLP] | Natural Language Processing, Multi-API Integration, Automated Logging | ✅ |
+| 39-58 | Coming Soon... | Web Scraping, Data Science, Advanced APIs, Automation | 🔄 |
 
 ### Professional Level (Days 59-81)
 | Day | Project | Concepts | Status |
@@ -175,4 +176,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [01-12-2025] | Day 37 of 100*
+*Last updated: [02-12-2025] | Day 38 of 100*
