@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 39/100** ✅  
-**Completion Rate: 39%** 📈  
-**Last Updated: [03-12-2025]**
+**Current Progress: Day 40/100** ✅  
+**Completion Rate: 40%** 📈  
+**Last Updated: [08-12-2025]**
 
 ## 🎯 Challenge Overview
 
@@ -70,7 +70,8 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 | 37 | [Habit Tracker with Pixela API] | RESTful APIs, CRUD Operations, Authentication, Data Visualization | ✅ |
 | 38 | [Exercise Tracking with NLP] | Natural Language Processing, Multi-API Integration, Automated Logging | ✅ |
 | 39 | [Flight Deal Finder] | Complex API Integration, OAuth2, Data Processing, Automated Monitoring | ✅ |
-| 40-58 | Coming Soon... | Web Scraping, Data Science, Advanced APIs, Automation | 🔄 |
+| 40 | [Flight Club Email Notifications] | Email Automation, Customer Management, Multi-channel Alerts, Bulk Operations | ✅ |
+| 41-58 | Coming Soon... | Web Scraping, Data Science, Advanced APIs, Automation | 🔄 |
 
 ### Professional Level (Days 59-81)
 | Day | Project | Concepts | Status |
@@ -177,4 +178,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [03-12-2025] | Day 39 of 100*
+*Last updated: [08-12-2025] | Day 40 of 100*
