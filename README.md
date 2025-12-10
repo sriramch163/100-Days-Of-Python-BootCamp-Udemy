@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 41/100** ✅  
-**Completion Rate: 41%** 📈  
-**Last Updated: [08-12-2025]**
+**Current Progress: Day 42/100** ✅  
+**Completion Rate: 42%** 📈  
+**Last Updated: [10-12-2025]**
 
 ## 🎯 Challenge Overview
 
@@ -72,7 +72,8 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 | 39 | [Flight Deal Finder] | Complex API Integration, OAuth2, Data Processing, Automated Monitoring | ✅ |
 | 40 | [Flight Club Email Notifications] | Email Automation, Customer Management, Multi-channel Alerts, Bulk Operations | ✅ |
 | 41 | [Introduction to HTML] | HTML Structure, Semantic Markup, Web Development Basics | ✅ |
-| 42-58 | Coming Soon... | CSS, Web Scraping, Data Science, Full Stack Development | 🔄 |
+| 42 | [Birthday Invitation Website] | Images, Lists, Links, File Management, Intermediate HTML | ✅ |
+| 43-58 | Coming Soon... | CSS, Web Scraping, Data Science, Full Stack Development | 🔄 |
 
 ### Professional Level (Days 59-81)
 | Day | Project | Concepts | Status |
@@ -179,4 +180,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [08-12-2025] | Day 41 of 100*
+*Last updated: [10-12-2025] | Day 42 of 100*
