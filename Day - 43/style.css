@@ -1,0 +1,32 @@
+/* Color the text based on meaning */
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: goldenrod;
+}
+
+/* Make the color titles NOT bold */
+.color-title {
+    font-weight: normal;
+}
+
+/* Make all images equal sized squares */
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover; 
+}
