@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 45/100** ✅  
-**Completion Rate: 45%** 📈  
-**Last Updated: [13-12-2025]**
+**Current Progress: Day 46/100** ✅  
+**Completion Rate: 46%** 📈  
+**Last Updated: [14-12-2025]**
 
 ## 🎯 Challenge Overview
 
@@ -76,7 +76,8 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 | 43 | [Spanish Colors Learning Website] | CSS Fundamentals, Selectors, Styling, Asset Management | ✅ |
 | 44 | [Motivation Meme Poster] | Google Fonts, Layout Positioning, Typography, Responsive Design | ✅ |
 | 45 | [Web Scraping with Beautiful Soup] | Web Scraping, HTML Parsing, Data Extraction, File I/O | ✅ |
-| 46-58 | Coming Soon... | Advanced Web Scraping, Data Science, APIs, Full Stack Development | 🔄 |
+| 46 | [Spotify Playlist from Billboard Hot 100] | Advanced Web Scraping, Spotify API, OAuth2, Multi-API Integration | ✅ |
+| 47-58 | Coming Soon... | Advanced APIs, Data Science, Selenium, Full Stack Development | 🔄 |
 
 ### Professional Level (Days 59-81)
 | Day | Project | Concepts | Status |
@@ -183,4 +184,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [13-12-2025] | Day 45 of 100*
+*Last updated: [14-12-2025] | Day 46 of 100*
