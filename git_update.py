@@ -23,7 +23,11 @@ def get_project_title(day_num):
         with open(f"Day - {day_num}/README.md", 'r') as f:
             for line in f:
                 if line.startswith('# Day'):
-                    return line.strip().replace('# ', '')
+                    title = line.strip().replace('# ', '')
+                    match = re.search(r'Day \d+ - (.+)', title)
+                    if match:
+                        return re.sub(r'[^\w\s-]', '', match.group(1)).strip()
+                    return title
     except:
         pass
     return f"Day {day_num} Project"
