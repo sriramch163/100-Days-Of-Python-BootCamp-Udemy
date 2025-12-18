@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 49/100** ✅  
-**Completion Rate: 49%** 📈  
-**Last Updated: [17-12-2025]**
+**Current Progress: Day 50/100** ✅  
+**Completion Rate: 50%** 📈  
+**Last Updated: [18-12-2025]**
 
 ## 🎯 Challenge Overview
 
@@ -80,7 +80,8 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 | 47 | [Amazon Price Tracker] | Advanced Web Scraping, Anti-Detection, Email Automation, Price Monitoring | ✅ |
 | 48 | [Cookie Clicker Bot] | Selenium WebDriver, Browser Automation, Game Automation, Element Interaction | ✅ |
 | 49 | [Automated Gym Class Booking Bot] | Advanced Selenium, Network Resilience, Retry Mechanisms, Browser Profiles | ✅ |
-| 50-58 | Coming Soon... | Selenium, Data Science, Advanced APIs, Full Stack Development | 🔄 |
+| 50 | [Tinder Auto Swiper Bot] | Advanced Selenium, Multi-Window Handling, Social Media Automation, OAuth Integration | ✅ |
+| 51-58 | Coming Soon... | Selenium, Data Science, Advanced APIs, Full Stack Development | 🔄 |
 
 ### Professional Level (Days 59-81)
 | Day | Project | Concepts | Status |
@@ -187,4 +188,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [17-12-2025] | Day 49 of 100*
+*Last updated: [18-12-2025] | Day 50 of 100*
