@@ -24,9 +24,6 @@ def get_project_title(day_num):
             for line in f:
                 if line.startswith('# Day'):
                     title = line.strip().replace('# ', '')
-                    match = re.search(r'Day \d+ - (.+)', title)
-                    if match:
-                        return re.sub(r'[^\w\s-]', '', match.group(1)).strip()
                     return title
     except:
         pass
