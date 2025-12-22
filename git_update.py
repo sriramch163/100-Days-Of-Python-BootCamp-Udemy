@@ -18,16 +18,28 @@ def extract_day_number(files):
             return match.group(1)
     return None
 
+# ✅ UPDATED FUNCTION (FIXED)
 def get_project_title(day_num):
+    readme_path = f"Day - {day_num}/README.md"
     try:
-        with open(f"Day - {day_num}/README.md", 'r') as f:
+        with open(readme_path, "r", encoding="utf-8") as f:
             for line in f:
-                if line.startswith('# Day'):
-                    title = line.strip().replace('# ', '')
-                    return title
-    except:
+                line = line.strip()
+
+                # Case 1: "# Help App"
+                if line.startswith("# ") and "Day" not in line:
+                    return line.replace("# ", "").strip()
+
+                # Case 2: "# Day - 56: Help App"
+                if line.startswith("# Day"):
+                    parts = line.split(":", 1)
+                    if len(parts) == 2:
+                        return parts[1].strip()
+
+    except FileNotFoundError:
         pass
-    return f"Day {day_num} Project"
+
+    return f"Day {day_num}"
 
 def main():
     print("🔍 Checking git status...")
@@ -37,7 +49,7 @@ def main():
         return
     
     print(f"📁 Found {len(files)} changed files")
-    for file in files[:5]:  # Show first 5 files
+    for file in files[:5]:
         print(f"   {file}")
     
     day_num = extract_day_number(files)
@@ -64,7 +76,9 @@ def main():
     
     # Commit 2: README update
     print(f"\n🔄 Step 2: Committing README updates...")
-    success, stdout, stderr = run_command('git commit -am "Day {day_num} progress updated"'.format(day_num=day_num))
+    success, stdout, stderr = run_command(
+        f'git commit -am "Day {day_num} progress updated"'
+    )
     if success:
         print(f"✅ Committed: Day {day_num} progress updated")
     else:
