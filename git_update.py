@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import subprocess
-import sys
 import re
 
 def run_command(command):
@@ -18,7 +17,7 @@ def extract_day_number(files):
             return match.group(1)
     return None
 
-# ✅ UPDATED FUNCTION (FIXED)
+# ✅ FIXED: Robust README title extraction
 def get_project_title(day_num):
     readme_path = f"Day - {day_num}/README.md"
     try:
@@ -26,15 +25,17 @@ def get_project_title(day_num):
             for line in f:
                 line = line.strip()
 
-                # Case 1: "# Help App"
-                if line.startswith("# ") and "Day" not in line:
+                # Case 1: "# Project Title"
+                if line.startswith("# ") and not line.lower().startswith("# day"):
                     return line.replace("# ", "").strip()
 
-                # Case 2: "# Day - 56: Help App"
-                if line.startswith("# Day"):
-                    parts = line.split(":", 1)
-                    if len(parts) == 2:
-                        return parts[1].strip()
+                # Case 2: "# Day 54 - Project Title"
+                if line.lower().startswith("# day") and "-" in line:
+                    return line.split("-", 1)[1].strip()
+
+                # Case 3: "# Day - 54: Project Title"
+                if line.lower().startswith("# day") and ":" in line:
+                    return line.split(":", 1)[1].strip()
 
     except FileNotFoundError:
         pass
@@ -61,12 +62,12 @@ def main():
     
     # Commit 1: New Day directory
     print(f"\n🔄 Step 1: Adding Day - {day_num} directory...")
-    success, stdout, stderr = run_command(f'git add "Day - {day_num}"')
+    success, _, stderr = run_command(f'git add "Day - {day_num}"')
     if success:
         print("✅ Day directory added")
         title = get_project_title(day_num)
         print(f"🔄 Committing: {title}")
-        success, stdout, stderr = run_command(f'git commit -m "{title}"')
+        success, _, stderr = run_command(f'git commit -m "{title}"')
         if success:
             print(f"✅ Committed: {title}")
         else:
@@ -76,7 +77,7 @@ def main():
     
     # Commit 2: README update
     print(f"\n🔄 Step 2: Committing README updates...")
-    success, stdout, stderr = run_command(
+    success, _, stderr = run_command(
         f'git commit -am "Day {day_num} progress updated"'
     )
     if success:
@@ -86,7 +87,7 @@ def main():
     
     # Push
     print("\n🔄 Step 3: Pushing to remote...")
-    success, stdout, stderr = run_command("git push")
+    success, _, stderr = run_command("git push")
     if success:
         print("✅ Pushed to remote successfully")
     else:
