@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 57/100** ✅  
-**Completion Rate: 57%** 📈  
-**Last Updated: [25-12-2025]**
+**Current Progress: Day 58/100** ✅  
+**Completion Rate: 58%** 📈  
+**Last Updated: [26-12-2025]**
 
 ## 🎯 Challenge Overview
 
@@ -88,7 +88,7 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 | 55 | [Flask Number Guessing Game] | Flask Web Framework, URL Routing, Dynamic Content, Web Applications | ✅ |
 | 56 | [Personal Portfolio Website] | Flask Templates, Static Files, Responsive Design, Web Development | ✅ |
 | 57 | [Flask Blog Application] | API Integration, Dynamic Routing, Template Rendering, OOP Design | ✅ |
-| 58 | Coming Soon... | Advanced Flask, Data Science, APIs, Full Stack Development | 🔄 |
+| 58 | [TinDog Bootstrap Website] | Bootstrap 5, Responsive Design, CSS Animations, Web Components | ✅ |
 
 ### Professional Level (Days 59-81)
 | Day | Project | Concepts | Status |
@@ -195,4 +195,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [25-12-2025] | Day 57 of 100*
+*Last updated: [26-12-2025] | Day 58 of 100*
