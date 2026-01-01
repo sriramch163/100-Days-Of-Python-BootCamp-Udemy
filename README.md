@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 63/100** ✅  
-**Completion Rate: 63%** 📈  
-**Last Updated: [31-12-2025]**
+**Current Progress: Day 64/100** ✅  
+**Completion Rate: 64%** 📈  
+**Last Updated: [01-01-2026]**
 
 ## 🎯 Challenge Overview
 
@@ -98,7 +98,8 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 | 61 | [Flask WTForms and Bootstrap Integration] | WTForms Validation, Bootstrap-Flask, Form Security, Template Inheritance, CSRF Protection | ✅ |
 | 62 | [Cafe and WiFi Website] | Advanced Flask Forms, CSV Data Management, Bootstrap Integration, Form Validation, Data Persistence | ✅ |
 | 63 | [Virtual Bookshelf with SQLAlchemy] | SQLAlchemy ORM, Database Models, CRUD Operations, Flask-SQLAlchemy Integration, Data Persistence | ✅ |
-| 64-81 | Coming Soon... | Web Development, Databases | 🔄 |
+| 64 | [My Top 10 Movies Website] | Advanced SQLAlchemy, TMDb API Integration, Movie Database, Rating System, Flask Web Development | ✅ |
+| 65-81 | Coming Soon... | Web Development, Databases | 🔄 |
 
 ### Expert Level (Days 82-100)
 | Day | Project | Concepts | Status |
@@ -200,4 +201,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [31-12-2025] | Day 63 of 100*
+*Last updated: [01-01-2026] | Day 64 of 100*
