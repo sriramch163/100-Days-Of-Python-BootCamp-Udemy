@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 64/100** ✅  
-**Completion Rate: 64%** 📈  
-**Last Updated: [01-01-2026]**
+**Current Progress: Day 66/100** ✅  
+**Completion Rate: 66%** 📈  
+**Last Updated: [03-01-2026]**
 
 ## 🎯 Challenge Overview
 
@@ -99,7 +99,9 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 | 62 | [Cafe and WiFi Website] | Advanced Flask Forms, CSV Data Management, Bootstrap Integration, Form Validation, Data Persistence | ✅ |
 | 63 | [Virtual Bookshelf with SQLAlchemy] | SQLAlchemy ORM, Database Models, CRUD Operations, Flask-SQLAlchemy Integration, Data Persistence | ✅ |
 | 64 | [My Top 10 Movies Website] | Advanced SQLAlchemy, TMDb API Integration, Movie Database, Rating System, Flask Web Development | ✅ |
-| 65-81 | Coming Soon... | Web Development, Databases | 🔄 |
+| 65 | [Web Design School - Web Foundation] | Canava Design | ✅ |
+| 66 | [Cafe & WiFi REST API] | REST API Development, HTTP Methods, SQLAlchemy ORM, API Authentication, Postman Testing | ✅ |
+| 67-81 | Coming Soon... | Web Development, Databases | 🔄 |
 
 ### Expert Level (Days 82-100)
 | Day | Project | Concepts | Status |
@@ -201,4 +203,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [01-01-2026] | Day 64 of 100*
+*Last updated: [03-01-2026] | Day 66 of 100*
