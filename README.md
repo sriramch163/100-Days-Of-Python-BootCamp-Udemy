@@ -4,9 +4,9 @@ Welcome to my 100 Days of Python coding challenge! This repository documents my 
 
 ## 📊 Progress Tracker
 
-**Current Progress: Day 76/100** ✅  
-**Completion Rate: 76%** 📈  
-**Last Updated: [12-01-2026]**
+**Current Progress: Day 77/100** ✅  
+**Completion Rate: 77%** 📈  
+**Last Updated: [13-01-2026]**
 
 ## 🎯 Challenge Overview
 
@@ -109,7 +109,8 @@ This repository follows the "100 Days of Code - The Complete Python Pro Bootcamp
 | 74 | [Advanced Data Visualization with Matplotlib] | Advanced Matplotlib, Custom Styling, Statistical Plotting, Professional Charts, Data Export | ✅ |
 | 75 | [Google Trends Data Analysis] | Google Trends API, Time Series Analysis, Correlation Analysis, Interactive Visualizations, Trend Forecasting | ✅ |
 | 76 | [Introduction to Machine Learning with Scikit-Learn] | Machine Learning Fundamentals, Supervised Learning, Data Preprocessing, Model Evaluation, Predictive Modeling | ✅ |
-| 77-81 | Coming Soon... | Machine Learning, Advanced Analytics | 🔄 |
+| 77 | [Advanced Machine Learning: Regression & Classification] | Advanced ML Algorithms, Feature Engineering, Hyperparameter Tuning, Ensemble Methods, Model Optimization | ✅ |
+| 78-81 | Coming Soon... | Machine Learning, Advanced Analytics | 🔄 |
 
 ### Expert Level (Days 82-100)
 | Day | Project | Concepts | Status |
@@ -211,4 +212,4 @@ This repository will be updated daily throughout the 100-day challenge. Each day
 
 **"The journey of a thousand miles begins with one step."** - Lao Tzu
 
-*Last updated: [12-01-2026] | Day 76 of 100*
+*Last updated: [13-01-2026] | Day 77 of 100*
